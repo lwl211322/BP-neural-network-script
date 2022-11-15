@@ -1,2 +1,2 @@
-# BP-neural-network-script
+# code-script of Matlab
 item description
